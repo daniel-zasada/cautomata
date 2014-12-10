@@ -49,7 +49,7 @@ a:focus {
 }
 #main-slider {
   background-image: url(../images/slider-bg.jpg);
-  background-attachment: floating;
+  background-attachment: fixed;
   background-size: cover;
   background-position: 50% 50%;
   background-repeat: no-repeat;
