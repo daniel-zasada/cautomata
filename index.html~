@@ -23,7 +23,6 @@
 
 <body data-spy="scroll" data-target="#navbar" data-offset="0">
     <header id="header" role="banner">
-        <div class="container">
             <div id="navbar" class="navbar navbar-default">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -40,8 +39,7 @@
 				<li><a href="index.html">projekty</a></li>
 	   		</ul>
                 </div>
-            </div>
-        </div>
+    </div>
     </header><!--/#header-->
 
     <div class="jumbotron">

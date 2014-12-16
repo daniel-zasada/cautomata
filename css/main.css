@@ -503,6 +503,7 @@ a:focus {
   background-color: #52b6ec;
   color: #fff;
 }
+
 .icon-lg {
   font-size: 48px;
   height: 108px;
@@ -631,4 +632,11 @@ textarea#message {
     opacity: 1;
     -o-transform: scale(1);
   }
+}
+
+.jumbotron
+{
+  height: 309px;
+  color: #eeeeee;
+  background-image: url(../images/jumbo-bg.png);
 }
